@@ -1,0 +1,27 @@
+/*先看權重，再看載入先後順序*/
+/*
+
+/*網頁標籤類別選擇器*/
+
+h1{
+	color: #FF88C2;
+	font-size: 30px;
+ 	background-color: white;
+}
+
+
+body{
+	background-color: #77FFEE;
+}
+
+/*自訂類別選擇器*/
+
+.category{
+	font-size: 20px;
+ 	background-color: #EEFFBB;
+}
+
+#size{
+	font-size: 20px;
+ 	background-color: #FFCCCC;
+}

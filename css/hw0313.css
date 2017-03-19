@@ -1,0 +1,232 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+	background-image: url('http://www.lanrentuku.com/savepic/img/allimg/1206/5-120601095934.jpg') ;
+}
+
+.wrap{
+  width: 900px;
+  margin: 0 auto 0 auto;
+
+}
+
+.header{
+	height: 100px;
+}
+.box-left{
+	float: left;
+	width: 300px;
+	height: 50px;
+	
+}
+
+.fitness{
+	float:left;
+}
+
+
+.box-right{
+  float: right;
+  width: 600px;
+  height: 50px;
+}
+
+.fb{
+	text-align: right;
+
+}
+.list{
+	text-align: right;
+	float:left;
+	width: 600px;
+	height: 40px;
+	padding-top: 30px;
+	margin:  0 auto 0 auto;
+}
+.list1{
+	display:inline;
+	text-align: right;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.content1{
+	margin-top: 20px;
+	width: 900px;
+	height:415px;
+	background-color: black;
+}
+
+.content-right{
+	float:left;
+	width: 260px;
+}
+
+.content-left{
+	float:left;
+	width: 640px;
+}
+
+h2{
+	font-size: 45px;
+	padding:20px 30px 10px 30px;
+	color:#007799;
+}
+
+p{
+	font-size: 20px;
+	padding:15px 20px 50px 30px;
+	color:white;
+	line-height: 28px;
+}
+
+.a1{
+	font-size: 30px;
+	padding:10px 20px 10px 20px;
+	margin-left: 30px;
+	background-color: #666666;
+	color:white;
+	text-decoration:none;
+}
+
+.content2{
+	margin-top: 30px;
+	width: 900px;
+	height: 115px;
+	background-color:#FFFFFF;
+}
+
+.word2{
+	color:#444444;
+	padding:15px 30px 20px 30px;
+	line-height: 28px;
+}
+
+.blue{
+	color:#009FCC;
+}
+
+.content3{
+	margin-top: 30px;
+	width: 900px;
+	height: 500px;
+	background-color:#FFFFFF;
+}
+
+.content3-left{
+	color:#444444;
+	font-size: 20px;
+	width: 590px;
+	padding:20px 30px 15px 30px;
+	float:left;
+}
+
+.word4{
+	color:#000000;
+	font-size: 25px;
+	padding:20px 30px 10px 0px;
+}
+
+.top{
+	float:left;
+	width: 590px;
+}
+
+.word5{
+	color:#444444;
+	font-size: 13px;
+	width:355px;
+	padding:0px 30px 10px 20px;
+	float:right;
+	line-height: 25px;
+}
+
+b{
+	font-size: 20px;
+  font-weight: bold;
+}
+
+.buttom{
+	margin-top:10px;
+	float:left;
+	width: 590px;
+}
+
+.content3-right{
+	color:#444444;
+	font-size: 20px;
+	width: 190px;
+	padding:20px 10px 15px 10px;
+	float:right;
+}
+
+.word6{
+	color:#000000;
+	font-size: 25px;
+	padding:20px 30px 10px 0px;
+}
+
+ul li{
+	width:180px;
+	line-height: 25px;
+}
+
+.input{
+	padding:12px;
+	margin-bottom: 20px;
+}
+
+.a2{
+
+	padding:10px 20px 10px 20px ;
+	background-color: #AAAAAA;
+	color:#009FCC;
+	text-decoration:none;
+}
+.footer{
+	text-align: center;
+	color:	#000000;
+	
+}
