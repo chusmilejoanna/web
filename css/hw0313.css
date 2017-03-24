@@ -84,12 +84,14 @@ body{
 	height: 40px;
 	padding-top: 30px;
 	margin:  0 auto 0 auto;
+
 }
 .list1{
 	display:inline;
 	text-align: right;
 	padding-left: 20px;
 	padding-right: 20px;
+	text-decoration: none;
 }
 
 .content1{
